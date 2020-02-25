@@ -32,4 +32,8 @@ git checkout
 
 git merge 
 
+git reset 
 
+git reset --hard
+
+git revert
